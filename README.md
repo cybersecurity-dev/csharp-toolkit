@@ -1,5 +1,6 @@
 # [C#](https://dotnet.microsoft.com/en-us/languages/csharp) [Toolkit](https://dotnet.microsoft.com/en-us/learn/csharp)
 
+## Install Steps
 
 <details>
 
@@ -40,3 +41,11 @@ dotnet --version
 sudo pacman -Syu
  ```
  </details>
+
+
+## HelloWorld Project
+```bash
+dotnet new console -lang C# -o HelloWorld && \
+cd ./HelloWorld && \
+dotnet run
+```
