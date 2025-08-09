@@ -1,4 +1,5 @@
-# [C#](https://dotnet.microsoft.com/en-us/languages/csharp) [Toolkit](https://dotnet.microsoft.com/en-us/learn/csharp)
+# [C#](https://dotnet.microsoft.com/en-us/languages/csharp) Programming [Toolkit](https://dotnet.microsoft.com/en-us/learn/csharp)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/Bash-Toolkit?tab=readme-ov-file#programming-language) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
 
 ## Install Steps
 
