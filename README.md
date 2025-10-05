@@ -54,3 +54,18 @@ dotnet new console -lang C# -o HelloWorld && \
 cd ./HelloWorld && \
 dotnet run
 ```
+
+
+
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/Csharp-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#c-development-toolkit)
